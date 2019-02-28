@@ -1,0 +1,35 @@
+body {
+	border: 20px solid #bdc3c7;
+	padding: 20px;
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+	font-family: Source Sans Pro, sans-serif;
+}
+
+.date {
+	letter-spacing: .2rem;
+	color: #00ccff;
+	text-transform: uppercase;
+}
+
+.title {
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.quote {
+	border-left: .3rem gray solid;
+	padding-left: .2rem;
+}
+
+hr{
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.post {
+	margin-bottom: 20px;
+}
